@@ -4,9 +4,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      
       <header className="App-header">
+      <h1>WELCOME EVERY ONE IN MY REACT APP</h1>
         <p>
-          Hi, Isfhan Ahmed is here
+          Hi, I am Isfhan Ahmed 
         </p>
         <a
           className="App-link"
@@ -14,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          My web CV 
+          See My Web CV - Assignment 1 
         </a>
       </header>
     </div>
